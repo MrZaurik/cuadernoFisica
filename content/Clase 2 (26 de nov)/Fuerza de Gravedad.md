@@ -1,8 +1,8 @@
 En el año 1687 Isaac Newton publicó su libro "La principia". En este libro dio a conocer lo que se llama: [[Ley de la gravitación universal|ley de la gravitación universal]].
 
-La fuerza de gravedad depende de las [[Masa|masas]] de los cuerpos y la [[Longitud|longitud]] a las cuales están separadas. Es directamente proporcional al producto de las masas e inversamente proporcional al cuadrado de la distancia que separa a sus centros.
+La fuerza de gravedad depende de las [[Masa|masas]] de los cuerpos y la [[Distancia|longitud]] a las cuales están separadas. Es directamente proporcional al producto de las masas e inversamente proporcional al cuadrado de la distancia que separa a sus centros.
 
-![[Pasted image 20241126232907.png]]
+![[imagen gravedad.png]]
 
  $F= G\times\frac{M_1\times{M_2{}}}{d^{2}{}}$
  Dónde G es una constante, llamada constante de gravitación universal. Su valor es $G=6.67\times10^{-11} Nm^{2}/ Kg^{2}$

@@ -1,4 +1,4 @@
-La **aceleración** es una [[Magnitudes#Magnitudes Vectoriales|magnitud vectorial]] que describe el cambio de [[Velocidad|velocidad]] de un objeto con respecto al [[tiempo]]. Al igual que la velocidad, la aceleración tiene una dirección y una [[Magnitudes|magnitud]]. Existen dos tipos de aceleración: la **aceleración media** y la **aceleración instantánea**.
+La **aceleración** es una [[Magnitudes#Magnitudes Vectoriales|magnitud vectorial]] que describe el cambio de [[Velocidad|velocidad]] de un objeto con respecto al [[Tiempo|tiempo]]. Al igual que la velocidad, la aceleración tiene una dirección y una [[Magnitudes|magnitud]]. Existen dos tipos de aceleración: la **aceleración media** y la **aceleración instantánea**.
 
 
 > [!WARNING] Advertencia!

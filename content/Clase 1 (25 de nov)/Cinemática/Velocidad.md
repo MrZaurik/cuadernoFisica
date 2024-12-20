@@ -1,11 +1,11 @@
-La **velocidad** es una [[Magnitudes#Magnitudes Vectoriales|magnitud vectorial]] que describe el cambio de [[Posición]] ($\Delta x$) de un cuerpo con respecto al [[tiempo]] ($\Delta t$). Indica la [[Rapidez]] con la que un objeto se mueve y la dirección en la que lo hace. Existen dos tipos principales de velocidad: la **velocidad media** y la **velocidad instantánea**.
+La **velocidad** es una [[Magnitudes#Magnitudes Vectoriales|magnitud vectorial]] que describe el cambio de [[Posición|posición]] ($\Delta x$) de un cuerpo con respecto al [[tiempo|tiempo]] ($\Delta t$). Indica la [[Rapidez]] con la que un objeto se mueve y la [[Dirección|dirección]] en la que lo hace. Existen dos tipos principales de velocidad: la **velocidad media** y la **velocidad instantánea**.
 
 
 > [!HINT] Nota
 > Es importante mencionar, que la velocidad viene dada por la **primera** derivada de la función posición del móvil que estamos estudiando.
 
 ## Velocidad Media
-Es el cociente entre el cambio de posición (desplazamiento) y el tiempo durante el cual ocurre ese cambio. Se calcula utilizando la fórmula:
+Es el cociente entre el cambio de posición ([[Posición#Desplazamiento|desplazamiento]]) y el tiempo durante el cual ocurre ese cambio. Se calcula utilizando la fórmula:
 
 $$
 \vec{v}_{\text{media}} = \frac{\Delta x}{\Delta t}
@@ -31,5 +31,4 @@ Para esta expresión es importante tener en cuenta que las diferencias entre val
 
 Por lo que existe una estrecha relación entre la velocidad y la aceleración, pues, al haber una aceleración, repercutiría en el valor de la velocidad.
 
-## Velocidad Angular ($\omega$)
-## Velocidad Tangencial
+

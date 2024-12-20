@@ -4,15 +4,15 @@ Al conjunto de unidades de medida para diferentes magnitudes recibe el nombre de
 
 A continuación, se describen algunas magnitudes, su correspondiente unidad y su símbolo de medida.
 
-| Magnitudes                        | Unidad de Medida* | Símbolo |
-| --------------------------------- | ----------------- | ------- |
-| [[Longitud]]                      | Metro             | m       |
-| [[Masa]]                          | Kilogramo         | kg      |
-| [[Tiempo]]                        | Segundos          | s       |
-| Temperatura                       | Kelvin            | K       |
-| Intensidad de Corriente Eléctrica | Amperio           | A       |
-| Cantidad de Sustancia             | Mol               | mol     |
-| Intensidad Luminosa               | Candela           | cd      |
+| Magnitudes                                                | Unidad de Medida* | Símbolo |
+| --------------------------------------------------------- | ----------------- | ------- |
+| [[Distancia]]                                             | Metro             | m       |
+| [[Masa]]                                                  | Kilogramo         | kg      |
+| [[Tiempo]]                                                | Segundos          | s       |
+| [[Ley cero de la termodinámica#Temperatura\|Temperatura]] | Kelvin            | K       |
+| Intensidad de Corriente Eléctrica                         | Amperio           | A       |
+| Cantidad de Sustancia                                     | Mol               | mol     |
+| Intensidad Luminosa                                       | Candela           | cd      |
 * *Se encuentra expresado en el SI.
 
 Para medir las magnitudes se utilizan [[Instrumentos de Medida]], los cuales varían dependiendo de cada magnitud.
